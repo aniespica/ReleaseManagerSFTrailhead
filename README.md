@@ -1,3 +1,5 @@
+# [Create Permission Sets for Unlocked Packages](https://trailhead.salesforce.com/en/content/learn/projects/perm-set-unlocked)
+
 <h1 align="center">Trailhead Permission Sets for Unlocked Packages Project</h1>
 This project contains the sample custom objects and custom tab for the Trailhead project 'Packaging Permission Sets with Salesforce DX'. The objective of this training is to show the trailblazer how to create and package a custom permission set using Salesforce DX CLI and working with Unlocked Packages.
 
